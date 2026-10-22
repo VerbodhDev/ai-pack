@@ -1,0 +1,15 @@
+[submodule "Applio"]
+	path = Applio
+	url = https://github.com/VerbodhDev/Applio.git
+[submodule "LangGraph-Udemy-Course"]
+	path = LangGraph-Udemy-Course
+	url = https://github.com/VerbodhDev/LangGraph-Udemy-Course.git
+[submodule "mcp-neo4j"]
+	path = mcp-neo4j
+	url = https://github.com/VerbodhDev/mcp-neo4j.git
+[submodule "temporal-ai-agent"]
+	path = temporal-ai-agent
+	url = https://github.com/VerbodhDev/temporal-ai-agent.git
+[submodule "ten-framework"]
+	path = ten-framework
+	url = https://github.com/VerbodhDev/ten-framework.git
